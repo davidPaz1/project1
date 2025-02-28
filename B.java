@@ -28,10 +28,10 @@ public class B extends A
         return  z + _x + _y;
     }
     
-    /*
+    
     public String toString()
     {
         return super.toString() + " _y = " + _y + "\t   " + "_a = " +  _a._x;
     }
-    */
+    
 }
