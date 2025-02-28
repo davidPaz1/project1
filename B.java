@@ -27,7 +27,11 @@ public class B extends A
     {
         return  z + _x + _y;
     }
-    
+
+    public int diff(int z)
+    {
+        return  _x + _y - z;
+    }
     
     public String toString()
     {
