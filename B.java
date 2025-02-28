@@ -1,7 +1,6 @@
 public class B extends A
 {
     private int _y;
-    @SuppressWarnings("unused")
     private A _a;
     
     public B()
