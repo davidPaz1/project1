@@ -17,6 +17,10 @@ public class A
         _x = a._x;
     }
 
+    public A(B b)
+    {
+        _x = b._x;
+    }
     //method
     public int get_X()
     {
